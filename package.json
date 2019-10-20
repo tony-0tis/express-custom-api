@@ -11,5 +11,13 @@
     "url": "git+https://github.com/8ai/express-custom-api.git"
   },
   "author": "8ai",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "keywords": [
+    "express",
+    "custom",
+    "api"
+  ],
+  "dependencies": {
+    "methods": "~1.1.2"
+  }
 }
