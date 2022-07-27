@@ -35,9 +35,6 @@ app.info('/something', {method: 'get'}); //add info for app path `/something` wi
 console.log(app.getInfo());
 ````
 
-This will add two methods for main app
-
-
 ## Methods
 This script add two methods which visible from the main app and from router app:
 - `info(path, infoObject)` - Add info

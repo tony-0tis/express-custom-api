@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/8ai/express-custom-api.git"
+    "url": "git+https://github.com/tony-0tis/express-custom-api.git"
   },
-  "author": "8ai",
+  "author": "tony-0tis",
   "license": "Apache-2.0",
   "keywords": [
     "express",
